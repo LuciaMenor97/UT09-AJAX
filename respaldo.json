@@ -1,0 +1,1770 @@
+[
+    [
+        {
+            "nombre": "Acción",
+            "description": "En este género prima la espectacularidad de las imágenes por medio de efectos especiales",
+            "producciones": [
+                {
+                    "title": "Piratas del caribe",
+                    "publicacion": "2017-06-10T22:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Animación",
+            "description": "No recurre a la técnica del rodaje de imágenes reales, sino a técnicas de animación",
+            "producciones": [
+                {
+                    "title": "Mulán",
+                    "publicacion": "1998-07-04T22:00:00.000Z",
+                    "nacionalidad": "",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Aventura",
+            "description": "Se refleja un mundo heroico de combates y aventuras. Predominan la acción y valores caballerescos",
+            "producciones": [
+                {
+                    "title": "Harry Potter y la Cámara Secreta",
+                    "publicacion": "2002-12-28T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Ciencia-ficción",
+            "description": "Género especulativo que relata acontecimientos desarrollados en un marco  imaginario",
+            "producciones": [
+                {
+                    "title": "Regreso al futuro",
+                    "publicacion": "1986-01-01T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Comedia",
+            "description": "Recrea situaciones de humor que intentan provocar la risa de la audiencia",
+            "producciones": [
+                {
+                    "title": "Deadpool",
+                    "publicacion": "2016-02-20T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Drama",
+            "description": "Se desarrolla a fondo la caracterización de los personajes, dejando aflorar sus emociones y sentimientos",
+            "producciones": [
+                {
+                    "title": "Titanic",
+                    "publicacion": "1998-02-07T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Musical",
+            "description": "Contiene interrupciones en su desarrollo, para dar un breve receso por medio de un fragmento musical",
+            "producciones": [
+                {
+                    "title": "Bohemian Rhapsody",
+                    "publicacion": "2019-01-27T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Romance",
+            "description": "Retrata argumentos construidos de eventos y personajes relacionados con el amor y las relaciones románticas",
+            "producciones": [
+                {
+                    "title": "Antes de ti",
+                    "publicacion": "2016-07-31T22:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 190,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ],
+                        "subtitles": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Terror",
+            "description": "Se caracteriza por su enfoque en provocar en el espectador sensaciones de miedo, repugnancia, incomodidad o preocupación",
+            "producciones": [
+                {
+                    "title": "El Orfanato",
+                    "publicacion": "2007-11-10T23:00:00.000Z",
+                    "nacionalidad": "Española",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 190,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ],
+                        "subtitles": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "title": "Antes de ti",
+            "publicacion": "2016-07-31T22:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 190,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Serbio",
+                    " Brasileño",
+                    " Ruso"
+                ],
+                "subtitles": [
+                    "Serbio",
+                    " Brasileño",
+                    " Ruso"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Black Mirror",
+            "publicacion": "2012-01-03T23:00:00.000Z",
+            "nacionalidad": "Nacionalida",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bohemian Rhapsody",
+            "publicacion": "2019-01-27T23:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Deadpool",
+            "publicacion": "2016-02-20T23:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "El Orfanato",
+            "publicacion": "2007-11-10T23:00:00.000Z",
+            "nacionalidad": "Española",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 190,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Serbio",
+                    " Brasileño",
+                    " Ruso"
+                ],
+                "subtitles": [
+                    "Serbio",
+                    " Brasileño",
+                    " Ruso"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Glee",
+            "publicacion": "2009-06-18T22:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Harry Potter y la Cámara Secreta",
+            "publicacion": "2002-12-28T23:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Inspector Gadget",
+            "publicacion": "1983-01-03T23:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Los Simpson",
+            "publicacion": "1990-01-06T23:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Mulán",
+            "publicacion": "1998-07-04T22:00:00.000Z",
+            "nacionalidad": "",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Perdidos",
+            "publicacion": "2004-10-21T22:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Piratas del caribe",
+            "publicacion": "2017-06-10T22:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "Regreso al futuro",
+            "publicacion": "1986-01-01T23:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "The Good Doctor",
+            "publicacion": "2017-10-24T22:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "The Walking Dead",
+            "publicacion": "2010-11-30T23:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Titanic",
+            "publicacion": "1998-02-07T23:00:00.000Z",
+            "nacionalidad": "Americana",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "resource": {
+                "duration": 160,
+                "link": "https://www.dondesea.com",
+                "audios": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ],
+                "subtitles": [
+                    "Español",
+                    " Inglés",
+                    " Italiano"
+                ]
+            },
+            "localizaciones": ""
+        },
+        {
+            "title": "True Blood",
+            "publicacion": "2008-10-06T22:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Vikingos",
+            "publicacion": "2013-04-02T22:00:00.000Z",
+            "nacionalidad": "Nacionalidad",
+            "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "seasons": [
+                {
+                    "title": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                },
+                {
+                    "title": "Temporada 2",
+                    "episodes": [
+                        {
+                            "title": "Episodio 3",
+                            "recurso": {
+                                "duration": 160,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ],
+                                "subtitles": [
+                                    "Español",
+                                    " Inglés",
+                                    " Italiano"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 50,
+                                "longitude": 165
+                            }
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "recurso": {
+                                "duration": 190,
+                                "link": "https://www.dondesea.com",
+                                "audios": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ],
+                                "subtitles": [
+                                    "Serbio",
+                                    " Brasileño",
+                                    " Ruso"
+                                ]
+                            },
+                            "localizaciones": {
+                                "latitude": 66,
+                                "longitude": 154
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "nombre": "James",
+            "apellido1": "Cameron",
+            "apellido2": "",
+            "fecha": "1954-09-15T23:00:00.000Z",
+            "producciones": [
+                {
+                    "title": "Titanic",
+                    "publicacion": "1998-02-07T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Juan Antonio",
+            "apellido1": "Bayona",
+            "apellido2": "",
+            "fecha": "1975-06-08T22:00:00.000Z",
+            "producciones": [
+                {
+                    "title": "El Orfanato",
+                    "publicacion": "2007-11-10T23:00:00.000Z",
+                    "nacionalidad": "Española",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 190,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ],
+                        "subtitles": [
+                            "Serbio",
+                            " Brasileño",
+                            " Ruso"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        },
+        {
+            "nombre": "Matt",
+            "apellido1": "Groening",
+            "apellido2": "",
+            "fecha": "1954-03-14T23:00:00.000Z",
+            "producciones": [
+                {
+                    "title": "Los Simpson",
+                    "publicacion": "1990-01-06T23:00:00.000Z",
+                    "nacionalidad": "Nacionalidad",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "seasons": [
+                        {
+                            "title": "Temporada 1",
+                            "episodes": [
+                                {
+                                    "title": "Episodio 1",
+                                    "recurso": {
+                                        "duration": 160,
+                                        "link": "https://www.dondesea.com",
+                                        "audios": [
+                                            "Español",
+                                            " Inglés",
+                                            " Italiano"
+                                        ],
+                                        "subtitles": [
+                                            "Español",
+                                            " Inglés",
+                                            " Italiano"
+                                        ]
+                                    },
+                                    "localizaciones": {
+                                        "latitude": 50,
+                                        "longitude": 165
+                                    }
+                                },
+                                {
+                                    "title": "Episodio 2",
+                                    "recurso": {
+                                        "duration": 190,
+                                        "link": "https://www.dondesea.com",
+                                        "audios": [
+                                            "Serbio",
+                                            " Brasileño",
+                                            " Ruso"
+                                        ],
+                                        "subtitles": [
+                                            "Serbio",
+                                            " Brasileño",
+                                            " Ruso"
+                                        ]
+                                    },
+                                    "localizaciones": {
+                                        "latitude": 66,
+                                        "longitude": 154
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "title": "Temporada 2",
+                            "episodes": [
+                                {
+                                    "title": "Episodio 3",
+                                    "recurso": {
+                                        "duration": 160,
+                                        "link": "https://www.dondesea.com",
+                                        "audios": [
+                                            "Español",
+                                            " Inglés",
+                                            " Italiano"
+                                        ],
+                                        "subtitles": [
+                                            "Español",
+                                            " Inglés",
+                                            " Italiano"
+                                        ]
+                                    },
+                                    "localizaciones": {
+                                        "latitude": 50,
+                                        "longitude": 165
+                                    }
+                                },
+                                {
+                                    "title": "Episodio 4",
+                                    "recurso": {
+                                        "duration": 190,
+                                        "link": "https://www.dondesea.com",
+                                        "audios": [
+                                            "Serbio",
+                                            " Brasileño",
+                                            " Ruso"
+                                        ],
+                                        "subtitles": [
+                                            "Serbio",
+                                            " Brasileño",
+                                            " Ruso"
+                                        ]
+                                    },
+                                    "localizaciones": {
+                                        "latitude": 66,
+                                        "longitude": 154
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Steven",
+            "apellido1": "Spielberg",
+            "apellido2": "",
+            "fecha": "1947-01-17T23:00:00.000Z",
+            "producciones": [
+                {
+                    "title": "Regreso al futuro",
+                    "publicacion": "1986-01-01T23:00:00.000Z",
+                    "nacionalidad": "Americana",
+                    "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "resource": {
+                        "duration": 160,
+                        "link": "https://www.dondesea.com",
+                        "audios": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ],
+                        "subtitles": [
+                            "Español",
+                            " Inglés",
+                            " Italiano"
+                        ]
+                    },
+                    "localizaciones": ""
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "nombre": "Carl",
+            "apellido1": "Grimes",
+            "apellido2": "",
+            "fecha": "2003-03-24T23:00:00.000Z",
+            "interpretaciones": [
+                {
+                    "produccion": {
+                        "title": "The Walking Dead",
+                        "publicacion": "2010-11-30T23:00:00.000Z",
+                        "nacionalidad": "Nacionalidad",
+                        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "seasons": [
+                            {
+                                "title": "Temporada 1",
+                                "episodes": [
+                                    {
+                                        "title": "Episodio 1",
+                                        "recurso": {
+                                            "duration": 160,
+                                            "link": "https://www.dondesea.com",
+                                            "audios": [
+                                                "Español",
+                                                " Inglés",
+                                                " Italiano"
+                                            ],
+                                            "subtitles": [
+                                                "Español",
+                                                " Inglés",
+                                                " Italiano"
+                                            ]
+                                        },
+                                        "localizaciones": {
+                                            "latitude": 50,
+                                            "longitude": 165
+                                        }
+                                    },
+                                    {
+                                        "title": "Episodio 2",
+                                        "recurso": {
+                                            "duration": 190,
+                                            "link": "https://www.dondesea.com",
+                                            "audios": [
+                                                "Serbio",
+                                                " Brasileño",
+                                                " Ruso"
+                                            ],
+                                            "subtitles": [
+                                                "Serbio",
+                                                " Brasileño",
+                                                " Ruso"
+                                            ]
+                                        },
+                                        "localizaciones": {
+                                            "latitude": 66,
+                                            "longitude": 154
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "title": "Temporada 2",
+                                "episodes": [
+                                    {
+                                        "title": "Episodio 3",
+                                        "recurso": {
+                                            "duration": 160,
+                                            "link": "https://www.dondesea.com",
+                                            "audios": [
+                                                "Español",
+                                                " Inglés",
+                                                " Italiano"
+                                            ],
+                                            "subtitles": [
+                                                "Español",
+                                                " Inglés",
+                                                " Italiano"
+                                            ]
+                                        },
+                                        "localizaciones": {
+                                            "latitude": 50,
+                                            "longitude": 165
+                                        }
+                                    },
+                                    {
+                                        "title": "Episodio 4",
+                                        "recurso": {
+                                            "duration": 190,
+                                            "link": "https://www.dondesea.com",
+                                            "audios": [
+                                                "Serbio",
+                                                " Brasileño",
+                                                " Ruso"
+                                            ],
+                                            "subtitles": [
+                                                "Serbio",
+                                                " Brasileño",
+                                                " Ruso"
+                                            ]
+                                        },
+                                        "localizaciones": {
+                                            "latitude": 66,
+                                            "longitude": 154
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "personaje": "Carl Grimes",
+                    "principal": false
+                }
+            ]
+        },
+        {
+            "nombre": "Daniel",
+            "apellido1": "Radcliffe",
+            "apellido2": "",
+            "fecha": "1989-08-22T22:00:00.000Z",
+            "interpretaciones": [
+                {
+                    "produccion": {
+                        "title": "Harry Potter y la Cámara Secreta",
+                        "publicacion": "2002-12-28T23:00:00.000Z",
+                        "nacionalidad": "Americana",
+                        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "resource": {
+                            "duration": 160,
+                            "link": "https://www.dondesea.com",
+                            "audios": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ],
+                            "subtitles": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ]
+                        },
+                        "localizaciones": ""
+                    },
+                    "personaje": "Harry Potter",
+                    "principal": true
+                }
+            ]
+        },
+        {
+            "nombre": "Fa",
+            "apellido1": "Mulan",
+            "apellido2": "",
+            "fecha": "1998-07-04T22:00:00.000Z",
+            "interpretaciones": [
+                {
+                    "produccion": {
+                        "title": "Mulán",
+                        "publicacion": "1998-07-04T22:00:00.000Z",
+                        "nacionalidad": "",
+                        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "resource": {
+                            "duration": 160,
+                            "link": "https://www.dondesea.com",
+                            "audios": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ],
+                            "subtitles": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ]
+                        },
+                        "localizaciones": ""
+                    },
+                    "personaje": "Fa Mulan",
+                    "principal": true
+                }
+            ]
+        },
+        {
+            "nombre": "Johnny",
+            "apellido1": "Depp",
+            "apellido2": "",
+            "fecha": "1963-07-08T23:00:00.000Z",
+            "interpretaciones": [
+                {
+                    "produccion": {
+                        "title": "Piratas del caribe",
+                        "publicacion": "2017-06-10T22:00:00.000Z",
+                        "nacionalidad": "Americana",
+                        "sinopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                        "resource": {
+                            "duration": 160,
+                            "link": "https://www.dondesea.com",
+                            "audios": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ],
+                            "subtitles": [
+                                "Español",
+                                " Inglés",
+                                " Italiano"
+                            ]
+                        },
+                        "localizaciones": ""
+                    },
+                    "personaje": "Jack Sparrow",
+                    "principal": true
+                }
+            ]
+        }
+    ]
+]
